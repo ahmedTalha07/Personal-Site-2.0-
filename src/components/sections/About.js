@@ -16,7 +16,7 @@ export default function About() {
     return (
  <Section>   
 <AboutHeader>
-<AboutHeading id = "about">Abasdfadsf out Me</AboutHeading>
+<AboutHeading id = "about">About Me</AboutHeading>
 </AboutHeader>
 <Container>
 <TextFlex>
